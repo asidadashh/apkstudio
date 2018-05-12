@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>cancel</source>
-        <translation>Cancel</translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>decode</source>
@@ -17,27 +17,27 @@
     </message>
     <message>
         <source>find</source>
-        <translation>Find</translation>
+        <translation>Bul</translation>
     </message>
     <message>
         <source>open_folder</source>
-        <translation>Open Folder</translation>
+        <translation>Dosyadan aç</translation>
     </message>
     <message>
         <source>replace</source>
-        <translation>Replace</translation>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>replace_all</source>
-        <translation>Replace All</translation>
+        <translation>Tümünü değiştir</translation>
     </message>
     <message>
         <source>save</source>
-        <translation>Save</translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>sign</source>
-        <translation>Sign</translation>
+        <translation>İmzala</translation>
     </message>
 </context>
 <context>
@@ -51,18 +51,18 @@
     <name>docks</name>
     <message>
         <source>console</source>
-        <translation>Console</translation>
+        <translation>Konsol</translation>
     </message>
     <message>
         <source>project</source>
-        <translation>Project</translation>
+        <translation>Proje</translation>
     </message>
 </context>
 <context>
     <name>filters</name>
     <message>
         <source>apk</source>
-        <translation>Android Application (*.apk)</translation>
+        <translation>Android uygulaması (*.apk)</translation>
     </message>
     <message>
         <source>apktool_yml</source>
@@ -77,11 +77,11 @@
     <name>forms</name>
     <message>
         <source>key</source>
-        <translation>Key</translation>
+        <translation>Anahtar</translation>
     </message>
     <message>
         <source>key_pass</source>
-        <translation>Key Password</translation>
+        <translation>Anahtar şifre</translation>
     </message>
     <message>
         <source>keystore</source>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>apk_path</source>
-        <translation>APK Path</translation>
+        <translation>APK yeri</translation>
     </message>
     <message>
         <source>decompile_sources</source>
@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>project_path</source>
-        <translation>Project Path</translation>
+        <translation>Proje yeri</translation>
     </message>
     <message>
         <source>framework_tag</source>
@@ -125,11 +125,11 @@
     </message>
     <message>
         <source>up</source>
-        <translation>Up</translation>
+        <translation>Yukarı</translation>
     </message>
     <message>
         <source>down</source>
-        <translation>Down</translation>
+        <translation>Aşağı</translation>
     </message>
     <message>
         <source>case_sensitive</source>
@@ -184,51 +184,51 @@
     </message>
     <message>
         <source>edit</source>
-        <translation>Edit</translation>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <source>copy</source>
-        <translation>Copy</translation>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>cut</source>
-        <translation>Cut</translation>
+        <translation>Kes</translation>
     </message>
     <message>
         <source>find</source>
-        <translation>Find</translation>
+        <translation>Bul</translation>
     </message>
     <message>
         <source>goto</source>
-        <translation>Goto</translation>
+        <translation>Git</translation>
     </message>
     <message>
         <source>paste</source>
-        <translation>Paste</translation>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>redo</source>
-        <translation>Redo</translation>
+        <translation>Yeniden dene</translation>
     </message>
     <message>
         <source>replace</source>
-        <translation>Replace</translation>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>settings</source>
-        <translation>Settings</translation>
+        <translation>Aayarlar</translation>
     </message>
     <message>
         <source>undo</source>
-        <translation>Undo</translation>
+        <translation>Geri al</translation>
     </message>
     <message>
         <source>file</source>
-        <translation>File</translation>
+        <translation>Dosya</translation>
     </message>
     <message>
         <source>open</source>
-        <translation>Open</translation>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>apk</source>
@@ -240,23 +240,23 @@
     </message>
     <message>
         <source>close</source>
-        <translation>Close</translation>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>close_all</source>
-        <translation>Close All</translation>
+        <translation>Tümünü kapat</translation>
     </message>
     <message>
         <source>quit</source>
-        <translation>Quit</translation>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <source>save</source>
-        <translation>Save</translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>save_all</source>
-        <translation>Save All</translation>
+        <translation>Tümünü kaydet</translation>
     </message>
     <message>
         <source>terminal</source>
@@ -264,58 +264,58 @@
     </message>
     <message>
         <source>help</source>
-        <translation>Help</translation>
+        <translation>Yardım</translation>
     </message>
     <message>
         <source>about</source>
-        <translation>About</translation>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <source>contribute</source>
-        <translation>Contribute</translation>
+        <translation>Katkıda bulun</translation>
     </message>
     <message>
         <source>documentation</source>
-        <translation>Documentation</translation>
+        <translation>Belgeler</translation>
     </message>
     <message>
         <source>feedback</source>
-        <translation>Feedback</translation>
+        <translation>Geribildirim</translation>
     </message>
     <message>
         <source>reload</source>
-        <translation>Reload</translation>
+        <translation>Tekrar yükle</translation>
     </message>
     <message>
         <source>say_thanks</source>
-        <translation>Say Thanks</translation>
+        <translation>Teşekkür et</translation>
     </message>
     <message>
         <source>report_issues</source>
-        <translation>Report Issue</translation>
+        <translation>Hata bildir</translation>
     </message>
     <message>
         <source>project</source>
-        <translation>Project</translation>
+        <translation>Proje</translation>
     </message>
     <message>
         <source>sign_export</source>
-        <translation>Sign/Import</translation>
+        <translation>İmzala/İçe aktar</translation>
     </message>
     <message>
         <source>install</source>
-        <translation>Install</translation>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>browse</source>
-        <translation>Browse Files</translation>
+        <translation>Dosyalara gözat</translation>
     </message>
 </context>
 <context>
     <name>messages</name>
     <message>
         <source>apk_signed</source>
-        <translation>APK has been successfully signed. What next?</translation>
+        <translation>APK dosyası başarıyla imzalandı. Sırada ne var?</translation>
     </message>
     <message>
         <source>quit</source>
